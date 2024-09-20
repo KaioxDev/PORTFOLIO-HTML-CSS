@@ -69,7 +69,7 @@ nav ul li a:hover{
 
 .Main{
     position: absolute;
-    top: 50%;
+    top: 65%;
     left: 8%;
     transform: translateY(-50%);
 }
